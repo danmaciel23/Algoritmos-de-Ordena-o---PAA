@@ -13,7 +13,7 @@ Este repositório contém a implementação de diversos algoritmos de ordenaçã
 
 ## 📁 Estrutura do Projeto
 
-``plaintext
+```plaintext
 .
 ├── algoritmos/
 │   ├── bubble_sort.py
