@@ -15,17 +15,17 @@ Este repositório contém a implementação de diversos algoritmos de ordenaçã
 
 ```plaintext
 .
-├── algoritmos/
+├── Algoritmos de Ordenação/
+│   ├──Main.tex
+├── codes/
 │   ├── bubble_sort.py
 │   ├── insertion_sort.py
 │   ├── selection_sort.py
 │   ├── heap_sort.py
 │   ├── quick_sort.py
 │   └── merge_sort.py
-├── testes/
-│   └── testes_ordenacao.py
 ├── README.md
-└── requirements.txt
+
 
 ## 🧪 Testes Realizados
 
