@@ -13,16 +13,17 @@ Este repositório contém a implementação de diversos algoritmos de ordenaçã
 
 ## 📁 Estrutura do Projeto
 
+``plaintext
 .
 ├── algoritmos/
-│ ├── bubble_sort.py
-│ ├── insertion_sort.py
-│ ├── selection_sort.py
-│ ├── heap_sort.py
-│ ├── quick_sort.py
-│ └── merge_sort.py
+│   ├── bubble_sort.py
+│   ├── insertion_sort.py
+│   ├── selection_sort.py
+│   ├── heap_sort.py
+│   ├── quick_sort.py
+│   └── merge_sort.py
 ├── testes/
-│ └── testes_ordenacao.py
+│   └── testes_ordenacao.py
 ├── README.md
 └── requirements.txt
 
